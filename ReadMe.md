@@ -1,4 +1,9 @@
-Требования
+# TRPrinter
+![](https://github.com/Gnado/trprinter.doc/blob/master/img/trp_001-1.jpg?raw=true)
+![](https://github.com/Gnado/trprinter.doc/blob/master/img/trp_001-2.jpg?raw=true)
+
+
+# Требования
 - Возможность настраивать принтер
 	- интервал задержек прожига и паузы
 	- порт
@@ -9,7 +14,7 @@
 - Страница с описанием принтера и его характеристиками
 
 	
-Структура
-web - веб морда
-api - rest-api управление принтером
-core - управление принтером (bash)
+# Структура
+- web - веб морда
+- api - rest-api управление принтером
+- core - управление принтером (bash)
